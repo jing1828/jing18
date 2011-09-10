@@ -26,7 +26,7 @@
                                 大功告成！
                             </td>
                         </tr>
-                        <tr bgcolor="#DDDDDD">
+                        <tr bgcolor="#DDDDDE">
                             <td align='right' COLSPAN='2'>
                                 <?php
                                 echo "<a href='excel/comm-{$tYY}{$tMM}.xls' accesskey='0'>下載「營業員佣金明細表」comm-{$tYY}{$tMM}.xls(0)</a>";
